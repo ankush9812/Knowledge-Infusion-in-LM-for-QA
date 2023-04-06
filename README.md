@@ -5,6 +5,8 @@ There is No Big Brother or Small Brother: Knowledge Infusion in Language Models 
 
 Aviation_KG_Triples.zip - This file contains triples from the AviationKG as train, valid, and test for knowledge infusion. It also contain entity strings file with unique entities from the triples.
 
+The knowledge infusion approach is adopted from the KGT5 paper for which the link is given below. This repo contains the BloomQA code for KG infusion.
+
 ## Aviation QA Dataset: 
 https://github.com/ankush9812/Aviation-Question-Answer-Pairs
 
